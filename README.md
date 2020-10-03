@@ -1,0 +1,1 @@
+Handle api response and parse data in different formats
